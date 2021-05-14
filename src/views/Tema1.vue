@@ -35,7 +35,7 @@
                   .col.mb-3.mb-sm-0
                     .h5.mb-0 Breve historia de Tim Berners Lee
                   .col-sm-auto
-                    a.boton.boton--b(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                    a.boton.boton--b.title-number(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
                       span Ver video
                       i.fas.fa-play-circle
 
