@@ -69,9 +69,9 @@
             p #[b  Pongamos en marcha la transformación digital] <br>•  Prepare y evalúe el Día D.
 
     .row.justify-content-center.align-items-center.mt-5
-      .col-12.col-md-6.avatar-border    
+      .col-12.avatar-border    
         .row.justify-content-center.mt-5
-            .col-11
+            .col-10
                 .card-media
                     .card-media__body
                         figure.card__figure
@@ -80,16 +80,16 @@
                         .p Facilita la priorización de procesos para la transformación digital de las entidades públicas. 
 
         .row.justify-content-center.mt-5
-            .col-11
+            .col-10
                 .card-media
                     .card-media__body
                         figure.card__figure
                             img(src='@/assets/ilustraciones/img54.svg', alt='')   
                         p #[b  Kit de herramientas para la transformación digital: Guía para el uso de tecnologías emergentes]  
                         .p Orienta en el uso y adopción de las nuevas herramientas digitales para crear servicios, procesos internos más eficientes, intuitivos y seguros.
-      .col-12.col-md-6.avatar-border    
+  
         .row.justify-content-center.mt-5
-            .col-11
+            .col-10
                 .card-media
                     .card-media__body
                         figure.card__figure
@@ -97,7 +97,7 @@
                         p #[b  Kit de herramientas para la transformación digital: Guía para el diseño de servicios digitales]
 
         .row.justify-content-center.mt-5
-            .col-11
+            .col-10
                 .card-media
                     .card-media__body
                         figure.card__figure

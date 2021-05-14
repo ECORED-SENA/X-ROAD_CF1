@@ -334,7 +334,7 @@
             .col-12
               p En virtud de este principio el Estado y los ciudadanos deben propender por la generación de valor público a través de la introducción de soluciones novedosas que hagan uso de TIC, para resolver problemáticas o necesidades identificadas.
 
-          div(titulo="2-Competitividad")
+          div(titulo="2- Competitividad")
             p Según este principio el Estado y los ciudadanos deben contar con capacidades y cualidades idóneas para actuar de manera ágil y coordinada, optimizar la gestión pública y permitir la comunicación permanente a través del uso y aprovechamiento de las TIC.
 
           div(titulo="3- Seguridad de información")
@@ -496,7 +496,7 @@
             .card-media
                 .card-media__body
                     figure.card__figure
-                        img(src='@/assets/ilustraciones/img54.svg', alt='')   
+                        img(src='@/assets/ilustraciones/img55.svg', alt='')   
                     p #[b Centro de Innovación]  
                     .p • Acompañamientos directos utilizando métodos de innovación.
                     p • Apoya investigaciones aplicadas para resolver retos concretos. 
@@ -506,7 +506,7 @@
             .card-media
                 .card-media__body
                     figure.card__figure
-                        img(src='@/assets/ilustraciones/img54.svg', alt='')   
+                        img(src='@/assets/ilustraciones/img56.svg', alt='')   
                     p #[b Agencia Nacional Digital]  
                     .p La Agencia Nacional Digital es una entidad de participación pública y naturaleza privada, sin ánimo de lucro adscrita al MINTIC, que busca dinamizar la construcción de un Estado más eficiente, transparente y participativo, gracias al uso y aplicación de la ciencia y las tecnologías de la información: 
                     .p • Servicios Ciudadanos Digitales
@@ -517,7 +517,7 @@
             .card-media
                 .card-media__body
                     figure.card__figure
-                        img(src='@/assets/ilustraciones/img54.svg', alt='')   
+                        img(src='@/assets/ilustraciones/img57.svg', alt='')   
                     p #[b Fuerza de Tarea Digital]  
                     .p Equipo estratégico que fortalece y promueve el fortalecimiento de la comunicación digital de las entidades gubernamentales: 
                     .p • Estrategia de Redes Sociales y Sinergia de Gobierno.
@@ -529,7 +529,7 @@
             .card-media
                 .card-media__body
                     figure.card__figure
-                        img(src='@/assets/ilustraciones/img54.svg', alt='')   
+                        img(src='@/assets/ilustraciones/img58.svg', alt='')   
                     p #[b Portales de apoyo]  
                     .p • Mi Colombia Digital.
                     p • Portal de Datos Abiertos del Estado.
@@ -540,7 +540,7 @@
     .titulo-segundo#t_2_17.mt-5
       .h4 2.17 Ejecutar la política - Apoyo para la implementación de la política 
     .row.justify-content-center.align-items-center.mt-5
-      .col-3.d-none.d-lg-block 
+      .col-4.d-none.d-lg-block 
         img(src='@/assets/ilustraciones/img39.svg', alt='')
 
       .col-7
@@ -641,7 +641,7 @@
       .col-11
         .hr-2 
     .row.justify-content-end.align-items-end
-      .col-3
+      .col-5
         a.anexo.mb-4.mb-lg-0(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=118337" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")

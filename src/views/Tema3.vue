@@ -99,7 +99,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/O1pX3S2DODM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-end.align-items-end.mt-4
-      .col-4
+      .col-5
         a.anexo.mb-lg-0(href="https://portalterritorial.dnp.gov.co/kpt/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
