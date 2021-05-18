@@ -346,7 +346,7 @@ export default {
         centro: 'Centro para la Industria de la Comunicación Gráfica',
       },
       {
-        nombre: 'Maria Isabel Román Rueda',
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Revisora de Contenidos',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
