@@ -318,7 +318,7 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor Metodológico y Pedagógico',
+        cargo: 'Asesor metodológico y pedagógico',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
@@ -327,51 +327,49 @@ export default {
           'Daniel Fernando Portilla Arciniegas',
           'José Ricardo Aponte Oviedo',
         ],
-        cargo: 'Expertos Temáticos',
+        cargo: 'Expertos temáticos',
         centro: 'MINTIC',
       },
       {
         nombre: 'Sergio Arturo Medina Castillo',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro: 'Centro para la Industria de la Comunicación Gráfica',
       },
       {
         nombre: 'Vilma Lucia Perilla M',
-        cargo: 'Revisora y Evaluadora Metodológica',
+        cargo: 'Revisora y evaluadora metodológica',
         centro: 'Centro de Gestión Industrial',
       },
       {
         nombre: 'Sandra Patricia Hoyos Sepúlveda',
-        cargo: 'Corrección de Estilo',
+        cargo: 'Corrección de estilo',
         centro: 'Centro para la Industria de la Comunicación Gráfica',
-      },
-      {
-        nombre: 'Jenny Paola Montillo Gélvez',
-        cargo: 'Revisora de Contenidos',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
       },
     ],
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del Equipo',
+        cargo: 'Responsable del equipo',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte Organizacional',
+        cargo: 'Soporte organizacional',
         centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },
       {
         nombre: ['Eulises Orduz Amezquita', 'Luis Gabriel Urueta Alvarez'],
-        cargo: 'Diseño Web y Producción Audiovisual',
+        cargo: 'Diseño Web y Producción audiovisual',
       },
       {
         nombre: 'Edward Leonardo Pico Cabra',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-End',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
+        cargo: 'Validación de diseño y contenido',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
