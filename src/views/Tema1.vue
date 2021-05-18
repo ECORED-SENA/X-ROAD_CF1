@@ -283,8 +283,7 @@
 
     .titulo-segundo#t_1_7.mt-5
       .h4 1.7 Gobierno electrónico en Colombia 
-    .p Las Agendas de Conectividad conllevan los principios de la Nueva Gestión Pública, de la corriente neoliberal y de la Sociedad de la Información.
-    .p Nacen para modernizar la administración pública y como proyecto de adaptación del Estado al cambio global.
+    .p Las Agendas de Conectividad conllevan los principios de la Nueva Gestión Pública, de la corriente neoliberal y de la Sociedad de la Información. Nacen para modernizar la administración pública y como proyecto de adaptación del Estado al cambio global.
 
     .p Estas Agendas en la región fueron responsabilidad preferencial de los ministerios de comunicaciones o de las vicepresidencias.
     .row.justify-content-center.align-items-top.mt-5
@@ -303,19 +302,19 @@
             .py-4.py-md-5.img-a(titulo="2003-2008 Arquitectura de gobierno en línea" :icono="require('@/assets/ilustraciones/img21.svg')")
               .row
                 .col-12.number-3.text-white.p-4
-                  p 1. Ministerio de comunicaciones y Agenda de Conectividad
+                  p 1. Ministerio de comunicaciones y Agenda de Conectividad.
 
                   .p 2. Componentes del Gobierno en línea: 
                   .row.justify-content-center.align-items-center
                     .col-11                  
                       p a. Plataforma de servicios.
 
-                  .p 3. Comisión Intersectorial de Políticas y de Gestión de la Información para la administración Pública
+                  .p 3. Comisión Intersectorial de Políticas y de Gestión de la Información para la administración Pública.
               
             .py-4.py-md-5(titulo="Decreto 1151 de abril de 2008" :icono="require('@/assets/ilustraciones/img21.svg')")
               .row
                 .col-12.number-3.text-white.p-4
-                  p 1. Plataforma electrónica como el principal motor de cambio de las relaciones entre los ciudadanos y la administración pública
+                  p 1. Plataforma electrónica como el principal motor de cambio de las relaciones entre los ciudadanos y la administración pública.
 
 
 </template>

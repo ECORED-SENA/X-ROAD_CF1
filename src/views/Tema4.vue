@@ -84,7 +84,7 @@
                 .card-media
                     .card-media__body
                         figure.card__figure
-                            img(src='@/assets/ilustraciones/img54_2.svg', alt='')   
+                            img(src='@/assets/ilustraciones/img54_3.svg', alt='')   
                         p #[b  Kit de herramientas para la transformación digital: Guía para el uso de tecnologías emergentes]  
                         .p Orienta en el uso y adopción de las nuevas herramientas digitales para crear servicios, procesos internos más eficientes, intuitivos y seguros.
   
@@ -93,7 +93,7 @@
                 .card-media
                     .card-media__body
                         figure.card__figure
-                            img(src='@/assets/ilustraciones/img54_3.svg', alt='')   
+                            img(src='@/assets/ilustraciones/img54_2.svg', alt='')   
                         p #[b  Kit de herramientas para la transformación digital: Guía para el diseño de servicios digitales]
 
         .row.justify-content-center.mt-5

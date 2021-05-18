@@ -314,46 +314,40 @@ export default {
     liderEquipo: {
       nombre: 'Maria Camila Garcia Santamaria',
       cargo: 'Líder del equipo',
-      centro: 'Dirección general',
     },
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
+        cargo: 'Asesor Metodológico y Pedagógico',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Daniel Fernando Portilla Arciniegas',
-        cargo: 'Experto temático',
-        centro: 'MINTIC',
-      },
-      {
-        nombre: 'José Ricardo Aponte Oviedo',
-        cargo: 'Experto temático',
+        nombre: [
+          'Daniel Fernando Portilla Arciniegas',
+          'José Ricardo Aponte Oviedo',
+        ],
+        cargo: 'Expertos Temáticos',
         centro: 'MINTIC',
       },
       {
         nombre: 'Sergio Arturo Medina Castillo',
-        cargo: 'Diseñador instruccional',
+        cargo: 'Diseñador Instruccional',
         centro: 'Centro para la Industria de la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
       },
       {
-        nombre: 'Vilma Lucia Perilla M.',
-        cargo: 'Revisora y evaluadora metodológica',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
+        nombre: 'Vilma Lucia Perilla M',
+        cargo: 'Revisora y Evaluadora Metodológica',
+        centro: 'Centro de Gestión Industrial',
       },
       {
         nombre: 'Sandra Patricia Hoyos Sepúlveda',
-        cargo: 'Correción de estilo',
+        cargo: 'Corrección de Estilo',
         centro: 'Centro para la Industria de la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
       },
       {
-        nombre: 'María Isabel Román Rueda',
-        cargo: 'Revisora de estilo',
+        nombre: 'Maria Isabel Román Rueda',
+        cargo: 'Revisora de Contenidos',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
@@ -361,25 +355,23 @@ export default {
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
+        cargo: 'Responsable del Equipo',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
+        cargo: 'Soporte Organizacional',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
       },
       {
-        nombre: [
-          'Oscar Ivan Uribe Ortiz',
-          'Eulises Orduz Amezquita',
-          'Luis Gabriel Urueta Alvarez',
-        ],
-        cargo: 'Diseño web y Producción Audiovisual',
+        nombre: ['Eulises Orduz Amezquita', 'Luis Gabriel Urueta Alvarez'],
+        cargo: 'Diseño Web y Producción Audiovisual',
       },
       {
         nombre: 'Edward Leonardo Pico Cabra',
         cargo: 'Desarrollo Front-End',
-      },
-      {
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
@@ -388,7 +380,7 @@ export default {
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: ['Validación de recursos'],
-        centro: 'Centro de comercio y servicios',
+        centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },
     ],

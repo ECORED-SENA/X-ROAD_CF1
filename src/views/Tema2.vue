@@ -213,8 +213,8 @@
 
         .h6.p-teme-2-color-3 3- Ejecutando la política
         .p •  TIC para el estado y TIC para la sociedad.
-        p •  Habilitadores transversales
-        p •   Apoyo a la implementación
+        p •  Habilitadores transversales.
+        p •   Apoyo a la implementación.
         .hr-dot.my-3
 
         .h6.p-teme-2-color-4 4- Midiendo la política
@@ -223,14 +223,12 @@
         .hr-dot.my-3   
       
     .titulo-segundo#t_2_8.mt-5
-      .h4 ¿2.8 Qué es la Política de gobierno digital? 
+      .h4 2.8 ¿Qué es la Política de gobierno digital? 
     .row.justify-content-center.align-items-center.mt-5
       .col-5
         img(src='@/assets/ilustraciones/img40.svg', alt='')
       .col-7
-        p Gobierno Digital es la política pública liderada por el Ministerio de Tecnologías de la Información y las Comunicaciones - MinTIC, que tiene como objetivo.
-
-        .p “Promover el uso y aprovechamiento de las tecnologías de la información y las comunicaciones para consolidar un Estado y ciudadanos competitivos, proactivos, e innovadores, que generen valor público en un entorno de confianza digital”. 
+        p Gobierno Digital es la política pública liderada por el Ministerio de Tecnologías de la Información y las Comunicaciones - MinTIC, que tiene como objetivo “Promover el uso y aprovechamiento de las tecnologías de la información y las comunicaciones para consolidar un Estado y ciudadanos competitivos, proactivos, e innovadores, que generen valor público en un entorno de confianza digital”. 
 
         .p #[b Conociendo la política]   
         ol.lista-ol--cuadro.mt-4
