@@ -40,7 +40,7 @@
 
                   .p Gestión para el Resultado con Valores.
 
-                  .p Com parte integral deñ Modelo Integrado de Planeación y gestión MIPG.
+                  .p Como parte integral del Modelo Integrado de Planeación y gestión MIPG.
     
     .titulo-segundo#t_2_2.mt-5
       .h4 2.2 Breve reseña del Modelo Integrado de Planeación y Gestión MIPG
@@ -86,13 +86,13 @@
         img(src='@/assets/ilustraciones/img29.svg', alt='') 
       .col-11
         p #[b 4a. Dimensión - Evaluación de resultados]
-        .p Para MIPG es importante que las entidades conozcan de manera permanente los avances en su gestión y los logros de los resultados y metas propuestas, en los tiempos y recursos previstos y si general los efectos deseados para la sociedad; de igual manera, esto le permite introducir mejoras en la gestión. 
+        .p Para MIPG es importante que las entidades conozcan de manera permanente los avances en su gestión y los logros de los resultados y metas propuestas, en los tiempos y recursos previstos y si generan los efectos deseados para la sociedad; de igual manera, esto le permite introducir mejoras en la gestión. 
 
     .row.justify-content-center.align-items-top.mt-4
       .col-1
         img(src='@/assets/ilustraciones/img30.svg', alt='') 
       .col-11
-        p #[b 5a. Dimensión -Información y comunicación]
+        p #[b 5a. Dimensión - Información y comunicación]
         .p MIPG define la Información y Comunicación como una dimensión articuladora de las demás, puesto que permite a las entidades vincularse con su entorno y facilitar la ejecución de sus operaciones a través de todo el ciclo de gestión. 
 
     .row.justify-content-center.align-items-top.mt-4
@@ -121,15 +121,15 @@
               p El Modelo Integrado de Planeación y Gestión MIPG es una herramienta que simplifica e integra los sistemas de desarrollo administrativo y gestión de la calidad y los articula con el sistema de control interno, para hacer los procesos dentro de la entidad más sencillos y eficientes.
               .p Es nuestra misión como entidad identificar las oportunidades de mejora y enfocar nuestro trabajo en satisfacer las necesidades, problemas y garantizar los derecho de todos.
 
-          div(titulo="2-¿Cómo funciona?")
-            p MIPG opera a través de la puesta en marcha de siete (7) dimensiones. Cada diemensión opera de manera articulada e intercomunicada, en elas se agrupan las políticas de gestión y desempeño institucional por área que permiten que se implemente el modelo de manera adecuada y fácil.
+          div(titulo="2- ¿Cómo funciona?")
+            p MIPG opera a través de la puesta en marcha de siete (7) dimensiones. Cada diemensión opera de manera articulada e intercomunicada, en ellas se agrupan las políticas de gestión y desempeño institucional por área que permiten que se implemente el modelo de manera adecuada y fácil.
             img.mt-4(src='@/assets/ilustraciones/img34.svg', alt='')
 
           div(titulo="3- ¿Qué esperamos?")
             p Resultados de la buena implementación:
 
             .p #[b Mayor confianza:] Seguridad en lo que hace la entidad.
-            p #[b Cambio cultural:] Mayor aprobación
+            p #[b Cambio cultural:] Mayor aprobación.
             p #[b Eficiencia:] Cumplir adecuadamente las funciones.
 
           div(titulo="4- Generar resultados")
@@ -190,7 +190,9 @@
 
     .titulo-segundo#t_2_7.mt-5
       .h4 2.7 Momentos de la Política de Gobierno Digital 
-
+    .p El 
+      a(href="https://estrategia.gobiernoenlinea.gov.co/623/articles-81473_recurso_1.pdf" target="_blank").link-color Manual de Gobierno Digital 
+      | desarrolló el proceso de implementación de la política a través de cuatro grandes momentos: 1. Conocer la política; 2. Planear la política; 3. Ejecutar la política; y 4. Medir la política, los cuales incorporan las acciones que permitirán desarrollar la política en las entidades públicas de nivel nacional y territorial, como se ilustra a continuación:
     .row.justify-content-center.align-items-center.mt-5
       .col-3.d-none.d-lg-block 
         img(src='@/assets/ilustraciones/img39.svg', alt='')
@@ -212,21 +214,21 @@
         .h6.p-teme-2-color-3 3- Ejecutando la política
         .p •  TIC para el estado y TIC para la sociedad.
         p •  Habilitadores transversales
-        p Apoyo a la implementación
+        p •   Apoyo a la implementación
         .hr-dot.my-3
 
         .h6.p-teme-2-color-4 4- Midiendo la política
         .p •  Seguimiento y evaluación en la entidad.
-        p •  Seguimiento y Evaluación MinTic.
+        p •  Seguimiento y Evaluación MinTIC.
         .hr-dot.my-3   
       
     .titulo-segundo#t_2_8.mt-5
-      .h4 2.8 Qué es la Política de gobierno digital? 
+      .h4 ¿2.8 Qué es la Política de gobierno digital? 
     .row.justify-content-center.align-items-center.mt-5
       .col-5
         img(src='@/assets/ilustraciones/img40.svg', alt='')
       .col-7
-        p Gobierno Digital es la política pública liderada por el Ministerio de Tecnologías de la Información y las Comunicaciones - MinTIC, que tiene como objetivo
+        p Gobierno Digital es la política pública liderada por el Ministerio de Tecnologías de la Información y las Comunicaciones - MinTIC, que tiene como objetivo.
 
         .p “Promover el uso y aprovechamiento de las tecnologías de la información y las comunicaciones para consolidar un Estado y ciudadanos competitivos, proactivos, e innovadores, que generen valor público en un entorno de confianza digital”. 
 
@@ -264,14 +266,14 @@
               .list__item__bulletNumber.teme-2-number-2
                   span 2
           .list__txt            
-            p Empoderar a los ciudadanos a través de la consolidación de un Estado Abierto
+            p Empoderar a los ciudadanos a través de la consolidación de un Estado Abierto.
 
         .list.mt-4
           .list__item
               .list__item__bulletNumber.teme-2-number-3
                   span 3
           .list__txt            
-            p Habilitar y mejorar la provisión de Servicios Digitales de confianza y calidad
+            p Habilitar y mejorar la provisión de Servicios Digitales de confianza y calidad.
   
 
         .list.mt-4
@@ -279,14 +281,14 @@
               .list__item__bulletNumber.teme-2-number-4
                   span 4
           .list__txt            
-            p Lograr procesos internos seguros y eficientes a través del fortalecimiento de las capacidades de gestión de tecnologías de información   
+            p Lograr procesos internos seguros y eficientes a través del fortalecimiento de las capacidades de gestión de tecnologías de información.   
 
         .list.mt-4
           .list__item
               .list__item__bulletNumber.teme-2-number-5
                   span 5
           .list__txt            
-            p Tomar decisiones basadas en datos a partir del aumento en el uso y aprovechamiento de la información                                
+            p Tomar decisiones basadas en datos a partir del aumento en el uso y aprovechamiento de la información.                                
 
     .titulo-segundo#t_2_10.mt-5
       .h4 2.10 Elementos de la Política Gobierno Digital
@@ -303,7 +305,7 @@
                   p Dos Componentes
                   .p •  TIC para el estado
 
-                  .p •  TIC para la sociedad.          
+                  .p •  TIC para la sociedad         
 
             .py-4.py-md-5.img-a(titulo="Tres habilitadores transversales" :icono="require('@/assets/ilustraciones/img44.svg')")
               .row
@@ -322,9 +324,9 @@
 
                   .p •  Servicios digitales de confianza y calidad.
                   .p •  Procesos internos seguros y eficientes.
-                  .p •  Decisciones basadas en datos.
-                  .p •  Empoderamiento ciudadano a traves de un estado abierto
-                  .p •  Territorios y ciudades inteligentes a través de las TIC
+                  .p •  Decisiones basadas en datos.
+                  .p •  Empoderamiento ciudadano a través de un estado abierto.
+                  .p •  Territorios y ciudades inteligentes a través de las TIC.
     .titulo-segundo#t_2_11.mt-5
       .h4 2.11 Principios de gobierno digital 
     .row.justify-content-center.align-items-center.mt-5    
@@ -351,7 +353,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-9
-        img.img-t.img-a(src='@/assets/ilustraciones/img41.svg', alt='') 
+        img.img-t.img-a(src='@/assets/ilustraciones/img41_1.svg', alt='') 
     .row.justify-content-center.align-items-center.mt-5
       .col-8       
         .list
@@ -510,7 +512,7 @@
                     p #[b Agencia Nacional Digital]  
                     .p La Agencia Nacional Digital es una entidad de participación pública y naturaleza privada, sin ánimo de lucro adscrita al MINTIC, que busca dinamizar la construcción de un Estado más eficiente, transparente y participativo, gracias al uso y aplicación de la ciencia y las tecnologías de la información: 
                     .p • Servicios Ciudadanos Digitales
-                    p • Proyectos de Transformación Digital.
+                    p • Proyectos de Transformación Digital
 
     .row.justify-content-center
         .col-11
@@ -557,8 +559,8 @@
         .p Realizar el autodiagnóstico específico en materia de seguridad y privacidad de la información, mediante la aplicación del instrumento de evaluación dispuesto en el sitio web del modelo. (MinTIC, s.f.)
         .hr-dot.my-3
 
-        .h6.p-teme-2-color-4 4- Hacer el reporte oficial de la implementación de la política de Gobierno Digital.
-        .p A través del FURAG, en los tiempos determinados por el DAFP
+        .h6.p-teme-2-color-4 4- Hacer el reporte oficial de la implementación de la política de Gobierno Digital
+        .p A través del FURAG, en los tiempos determinados por el DAFP.
         .hr-dot.my-3  
 
     .titulo-segundo#t_2_18.mt-5
@@ -572,7 +574,7 @@
               img(src='@/assets/ilustraciones/img60.svg', alt='Texto que describa la imagen')
           
         .h3.text-center Indicadores de resultados
-        p.text-center Tomado de la página 47,48 y 49 del Manual de Gobierno digital. Implementación de la Política de Gobierno Digital Decreto 1008 de 2018 (Compilado en el Decreto 1078 de 2015, capítulo 1, título 9, parte 2, libro 2)
+        p.text-center Tomado de la página 47, 48 y 49 del Manual de Gobierno digital. Implementación de la Política de Gobierno Digital Decreto 1008 de 2018 (Compilado en el Decreto 1078 de 2015, capítulo 1, título 9, parte 2, libro 2)
 
         a.mt-5.anexo(:href="obtenerLink('/downloads/DECRETO_620_DEL_2_DE_MAYO_DE_2020.pdf')" target="_blank")
           .anexo__icono
@@ -655,7 +657,7 @@
 
     .row.justify-content-between.align-items-stretch.my-4
       .col-4.text-center.text-white.py-1.card-gobierno-1
-        p Indice gobierno digital nación
+        p Índice gobierno digital nación
         .h6 81.7 
       .col-4.text-center.text-white.py-1.card-gobierno-2
         p Número total de entidades
@@ -747,7 +749,7 @@
             .col-10    
               p #[b Ley 2052 de 2020]
               .p Alcance
-              .p Racionalización, digitalización, automatización, trámites en línea, revisión, compilación y formularios únicos
+              .p Racionalización, digitalización, automatización, trámites en línea, revisión, compilación y formularios únicos.
 
 
 

@@ -68,7 +68,7 @@
           p #[b Agendas de conectividad]
           .p En Colombia el gobierno electrónico, inicia bajo la denominación Gobierno en Línea.
           p Se impulsó como un programa de política pública llamado Agenda de Conectividad.
-          p Estas Agendas fueron formuladas por la mayoría de gobiernos de la región entre 1998 y 2001, como una forma de Gobierno electrónico. Las Agendas de Conectividad nacieron con los principios de la Nueva Gestión Pública , de la corriente neoliberal.  
+          p Estas Agendas fueron formuladas por la mayoría de gobiernos de la región entre 1998 y 2001, como una forma de Gobierno electrónico. Las Agendas de Conectividad nacieron con los principios de la Nueva Gestión Pública, de la corriente neoliberal.  
 
         .col-md-3.mt-3
           figure
@@ -116,7 +116,7 @@
               p 2. Colaboración.
               p 3. Participación.        
           p.mt-3 #[b Banda ancha]
-          .p Se logra establecer una mayor capacidad de transmisión de datos en el mundo con troncales en fibra óptica qué posibilitan el tráfico de una mayor cantidad de información.
+          .p Se logra establecer una mayor capacidad de transmisión de datos en el mundo con troncales en fibra óptica que posibilitan el tráfico de una mayor cantidad de información.
           p Se tejen redes de comunicaciones a través de cables trasatlánticos con inversiones multimillonarias de países y empresas privadas. 
       .row.justify-content-center.align-items-center(titulo="2018")
         .col-md-3
@@ -126,10 +126,10 @@
           p #[b Big Data]
           .p Con el nacimiento de la WWW (World Wide Web) en 1989 se abren los primeros caminos a la generación masiva de datos.
           p De esto deriva la aparición de los primeros sistemas de gestión y almacenamiento de información en 1992. Hoy en día permite que seamos capaces de procesar e interpretar el Big Data.
-          p Desde 2009 a 2011 aparecen empresas como Cloudera y Hortonworks. Para 2012,. En 2012 Barack Obama por primera vez se emplea el Big Data en fines políticos en su campaña para conocer las opiniones de los votantes más indecisos y saber qué canales utilizaban.
+          p Desde 2009 a 2011 aparecen empresas como Cloudera y Hortonworks. En 2012 Barack Obama por primera vez emplea el Big Data con fines políticos en su campaña para conocer las opiniones de los votantes más indecisos y saber qué canales utilizaban.
           p En 2016 el Big Data alcanza un puesto importante en la sociedad. Se generaliza la contratación de expertos en Big Data, el Machine Learning llega a las fábricas y el Internet de las Cosas comienza a abarcar diferentes sectores.        
           p #[b Decreto 1008 de 2018]
-          .p Nace la política de gobierno digital en Colombia "Por el cual se establecen los lineamientos generales de la política de Gobierno Digital y se subroga el capítulo 1 del título 9 de la parte 2 del libro 2 del Decreto 1078 de 2015, Decreto Único Reglamentario del sector de Tecnologías de la Información y las Comunicaciones" 
+          .p Nace la política de gobierno digital en Colombia "Por el cual se establecen los lineamientos generales de la política de Gobierno Digital y se subroga el capítulo 1 del título 9 de la parte 2 del libro 2 del Decreto 1078 de 2015, Decreto Único Reglamentario del sector de Tecnologías de la Información y las Comunicaciones". 
       .row.justify-content-center.align-items-center(titulo="2020")
         .col-md-3
           figure
@@ -137,7 +137,7 @@
         .col-md-7.mb-4.mb-md-0
           p #[b Servicios Ciudadanos Digitales]
           .p Ley 2052 de 2020: la norma rige que los trámites que se creen a partir de su entrada en vigor deberán realizarse totalmente en línea por parte de los ciudadanos.
-          p Decreto 620 de 2020: establece los lineamientos generales en el uso y operación de los servicios ciudadanos digitales" 
+          p Decreto 620 de 2020: establece los lineamientos generales en el uso y operación de los servicios ciudadanos digitales". 
 
         .col-md-3.mt-5                   
           figure
@@ -170,7 +170,7 @@
           .list__txt            
             .h6 Impulso de la iniciativa privada: Neoliberalismo
             .p El neoliberalismo es la respuesta a la intervención estatal como garante de una mayor justicia social (es decir, del Estado benefactor).
-            p Su enfoque es claro en resultados: privatizaciones, Orientación a la economía de mercado, precio libres, menos subsidios estatales y libertad de mercados.
+            p Su enfoque es claro en resultados: privatizaciones, Orientación a la economía de mercado, precios libres, menos subsidios estatales y libertad de mercados.
 
         .list
           .list__item
@@ -178,7 +178,7 @@
                   span 3
           .list__txt            
             .h6 Impulso amplio de las TICs
-            .p La expansión de tecnologías ofimáticas (computadores, software, scanner, impresoras, etc). Los administradores públicos son los primeros en recibir el impacto de las tecnologías dentro del Estado.
+            .p La expansión de tecnologías ofimáticas (computadores, software, scanner, impresoras, etc.). Los administradores públicos son los primeros en recibir el impacto de las tecnologías dentro del Estado.
             p Diversos estudios demuestran que las administraciones públicas siempre fueron empujadas al uso de las tecnologías para mejorar o subir de estatus sus procesos internos.
             p A la ofimática se le incorporó el arsenal de las telecomunicaciones del nuevo milenio: Móviles, fibra óptica, Wifi, servidores, etc.   
         
@@ -193,7 +193,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-9
-        img.img-t.img-a(src='@/assets/ilustraciones/img13.svg', alt='') 
+        img.img-t.img-a(src='@/assets/ilustraciones/img14.svg', alt='') 
     .row.justify-content-center.align-items-center.mt-5
       .col-8       
         .list
@@ -221,7 +221,7 @@
                   span 3
           .list__txt            
             .h6 Nueva Gestión Pública
-            .p El punto central de la NGP es la adopción de buenas prácticas gerenciales para mejorar la gestión pública (Barzelay 2001. Para Christopher Hood, uno los mayores analistas de este enfoque en la época, la NGP sería “un término para nombrar las doctrinas administrativas ampliamente similares que han dominado la agenda de reforma burocrática en muchos de los países desde fnales de la década de los años ochenta” (Hood, 1997: 4-5). 
+            .p El punto central de la NGP es la adopción de buenas prácticas gerenciales para mejorar la gestión pública (Barzelay 2001). Para Christopher Hood, uno los mayores analistas de este enfoque en la época, la NGP sería “un término para nombrar las doctrinas administrativas ampliamente similares que han dominado la agenda de reforma burocrática en muchos de los países desde fnales de la década de los años ochenta” (Hood, 1997: 4-5). 
 
     .titulo-segundo#t_1_4.mt-5
       .h4 1.4 Gobierno electrónico y sociedad de la información    
@@ -277,13 +277,16 @@
 
     .titulo-segundo#t_1_6.mt-5
       .h4 1.6 Modelo fluctuante de gobierno electrónico
-    .p En un enfoque “postmoderno” aparece la búsqueda por adaptarse a la expansión del mundo con procesos acelerados y no predecibles: una metaestabilidad tal como se conoce en las teorías del Caos y de las Fluctuaciones (Rihani, 2006). Es cíclico no hay inicio, no hay final, hay muchos imprevistos y el nivel integración del sistema es un prerrequisito y no el objeto.
+    .p En un enfoque “postmoderno” aparece la búsqueda por adaptarse a la expansión del mundo con procesos acelerados y no predecibles: una metaestabilidad tal como se conoce en las teorías del Caos y de las Fluctuaciones (Rihani, 2006). Es cíclico no hay inicio, no hay final, hay muchos imprevistos y el nivel de integración del sistema es un prerrequisito y no el objeto.
     img.img-t.mt-5.img-a(src='@/assets/ilustraciones/img20.svg', alt='')
     .p-r.mt-3.text-center Fuente: Construcción a partir de información de Rihani (2006) y Prigogine (1990), Cibernética III
 
     .titulo-segundo#t_1_7.mt-5
       .h4 1.7 Gobierno electrónico en Colombia 
+    .p Las Agendas de Conectividad conllevan los principios de la Nueva Gestión Pública, de la corriente neoliberal y de la Sociedad de la Información.
+    .p Nacen para modernizar la administración pública y como proyecto de adaptación del Estado al cambio global.
 
+    .p Estas Agendas en la región fueron responsabilidad preferencial de los ministerios de comunicaciones o de las vicepresidencias.
     .row.justify-content-center.align-items-top.mt-5
       .col-12.col-md-4
         .h5.t-bg-1.text-white.p-5 Agenda de Conectividad. Regional 1998 y 2001 Gobierno en línea

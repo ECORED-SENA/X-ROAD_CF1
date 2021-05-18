@@ -125,7 +125,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.8',
-            titulo: 'Qué es la Política de gobierno digital?',
+            titulo: '¿Qué es la Política de gobierno digital?',
             hash: 't_2_8',
           },
           {
@@ -314,6 +314,7 @@ export default {
     liderEquipo: {
       nombre: 'Maria Camila Garcia Santamaria',
       cargo: 'Líder del equipo',
+      centro: 'Dirección general',
     },
     contenidoInstruccional: [
       {
@@ -334,13 +335,27 @@ export default {
       },
       {
         nombre: 'Sergio Arturo Medina Castillo',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro: 'Centro para la Industria de la Comunicación Gráfica',
+        regional: 'Regional Distrito Capital',
       },
       {
-        nombre: 'Vilma Lucia Perilla M',
+        nombre: 'Vilma Lucia Perilla M.',
         cargo: 'Revisora y evaluadora metodológica',
-        centro: 'Centro de Gestión Industrial',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        cargo: 'Correción de estilo',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'María Isabel Román Rueda',
+        cargo: 'Revisora de estilo',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
     ],
     desarrolloProducto: [
@@ -354,8 +369,8 @@ export default {
       },
       {
         nombre: [
-          'Eulises Orduz',
           'Oscar Ivan Uribe Ortiz',
+          'Eulises Orduz Amezquita',
           'Luis Gabriel Urueta Alvarez',
         ],
         cargo: 'Diseño web y Producción Audiovisual',

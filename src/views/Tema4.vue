@@ -75,7 +75,7 @@
                 .card-media
                     .card-media__body
                         figure.card__figure
-                            img(src='@/assets/ilustraciones/img54.svg', alt='')   
+                            img(src='@/assets/ilustraciones/img54_1.svg', alt='')   
                         p #[b  Kit de herramientas para la transformación digital: Herramientas de medición de transformación digital]  
                         .p Facilita la priorización de procesos para la transformación digital de las entidades públicas. 
 
@@ -84,7 +84,7 @@
                 .card-media
                     .card-media__body
                         figure.card__figure
-                            img(src='@/assets/ilustraciones/img54.svg', alt='')   
+                            img(src='@/assets/ilustraciones/img54_2.svg', alt='')   
                         p #[b  Kit de herramientas para la transformación digital: Guía para el uso de tecnologías emergentes]  
                         .p Orienta en el uso y adopción de las nuevas herramientas digitales para crear servicios, procesos internos más eficientes, intuitivos y seguros.
   
@@ -93,7 +93,7 @@
                 .card-media
                     .card-media__body
                         figure.card__figure
-                            img(src='@/assets/ilustraciones/img54.svg', alt='')   
+                            img(src='@/assets/ilustraciones/img54_3.svg', alt='')   
                         p #[b  Kit de herramientas para la transformación digital: Guía para el diseño de servicios digitales]
 
         .row.justify-content-center.mt-5
@@ -101,7 +101,7 @@
                 .card-media
                     .card-media__body
                         figure.card__figure
-                            img(src='@/assets/ilustraciones/img54.svg', alt='')   
+                            img(src='@/assets/ilustraciones/img54_4.svg', alt='')   
                         p #[b  Kit de herramientas para la transformación digital: Guía para la automatización de procesos]  
                         .p Procesos ágiles a través de la automatización inteligente con capacidad para entregar flujos de trabajo 100% precisos.                                              
     .titulo-segundo#t_4_4.mt-5
@@ -133,13 +133,13 @@
                   p •  Hoja de ruta.
                   p •  Ejecute hoja de ruta o implemente.
               
-            .py-4.py-md-5(titulo="Pongamos en marcha la transformación digital" :icono="require('@/assets/ilustraciones/img24.svg')")
+            .py-4.py-md-5(titulo="Pongamos en marcha la transformación digital" :icono="require('@/assets/ilustraciones/img76.svg')")
               .row
                 .col-12.number-3.text-white.p-4
                   p #[b Pongamos en marcha la transformación digital]
 
                   .p •  Prepare y evalúe.
-                  p •  Día D
+                  p •  Día D.
 
 </template>
 

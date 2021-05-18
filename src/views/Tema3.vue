@@ -52,7 +52,7 @@
             p Número de soluciones tecnológicas, aplicaciones web y móviles implementadas que hacen uso de datos abiertos de la entidad, publicados en el portal de datos del estado www.datos.gov.co para la toma de decisiones de la entidad, los ciudadanos y sociedad. (Sistemas de información geográficos, sistemas de información de salud, educación, agricultura, seguridad, etc…)
 
     .titulo-segundo#t_3_3.mt-5
-      .h4  3.3 Implementar los Habilitadores de la Política de Gobierno Digital GD. 
+      .h4  3.3 Implementar los Habilitadores de la Política de Gobierno Digital GD
     .p Implementar los propósitos de la Política de Gobierno Digital
 
     .row.justify-content-end.align-items-end.mt-5
@@ -75,7 +75,7 @@
           .list__txt            
             p #[b Habilitador de seguridad digital] 
             .p •  Un Diagnóstico de seguridad y privacidad de la información implementado.
-            p.mt-2 •  Una Guía para la administración del riesgo y el diseño de controles en entidades públicas implementada
+            p.mt-2 •  Una Guía para la administración del riesgo y el diseño de controles en entidades públicas implementada.
         .hr-2.mt-4
         .list.mt-4
           .list__item
@@ -84,13 +84,13 @@
           .list__txt            
             p #[b Habilitador de servicios ciudadanos] 
             .p •  Un Diagnóstico de seguridad y privacidad de la información implementado.
-            p.mt-2 •  Una Guía para la administración del riesgo y el diseño de controles en entidades públicas implementada  
+            p.mt-2 •  Una Guía para la administración del riesgo y el diseño de controles en entidades públicas implementada.  
         .hr-2.mt-4
 
       .col-2
         img.img-a.img-t(src='@/assets/ilustraciones/img70.svg', alt='')    
     .titulo-segundo#t_3_4.mt-5
-      .h4  3.4 Apoyo técnico para lineamientos de Planes de Desarrollo Guías. 
+      .h4  3.4 Apoyo técnico para lineamientos de Planes de Desarrollo Guías 
     .p #[b Habilitador de servicios ciudadanos]
     .p También se dispone de una serie de guías e instructivos con los lineamientos precisos para apoyar a las entidades, los cuales están disponibles en los enlaces que hacen parte integral del documento.
 
