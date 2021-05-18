@@ -377,7 +377,7 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: ['Validación de recursos'],
+        cargo: ['Validación y vinculación en plataforma LMS'],
         centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },
