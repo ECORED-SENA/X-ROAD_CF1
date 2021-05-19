@@ -27,7 +27,7 @@
           p #[b Inicios de la Web]
           .p A finales de los 80s nacen las páginas web con Tim Berners Lee.
           p En este momento se incorpora el protocolo http, la URL y el lenguaje de marcado HTML, hoy en la versión 5.
-          p Esta tecnología podría operar sobre la red de internet, que tuvo a partir de allí un desarrollo mucho más amplio. 
+          .p Esta tecnología podría operar sobre la red de internet, que tuvo a partir de allí un desarrollo mucho más amplio. 
           .tarjeta.color-secundario.text-white.p-3.mt-3
             .row.justify-content-around.align-items-center
               .col
