@@ -33,7 +33,7 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    .h5.mb-0 Breve historia de Tim Berners Lee
+                    p.mb-0 Breve historia de Tim Berners Lee
                   .col-sm-auto
                     a.boton.boton--b.title-number(href="https://www.youtube.com/embed/79jhGynhiYw" target="_blank")
                       span Ver video
