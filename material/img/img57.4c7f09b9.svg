@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81.508" height="81.509" viewBox="0 0 81.508 81.509">
+  <g id="Grupo_54479" data-name="Grupo 54479" transform="translate(-174.246 -12986)">
+    <g id="Grupo_54348" data-name="Grupo 54348" transform="translate(-462.189 11596.234)">
+      <path id="Trazado_99476" data-name="Trazado 99476" d="M40.754,0A40.754,40.754,0,1,1,0,40.754,40.754,40.754,0,0,1,40.754,0Z" transform="translate(636.436 1389.766)" fill="#ff0062"/>
+    </g>
+    <g id="Grupo_54386" data-name="Grupo 54386" transform="translate(-834.943 12371.236)">
+      <path id="Trazado_101989" data-name="Trazado 101989" d="M1067.08,673.483h-35.487a5.267,5.267,0,0,1-5.261-5.262V643.027a5.267,5.267,0,0,1,5.261-5.263h35.487a5.268,5.268,0,0,1,5.262,5.263V668.22A5.268,5.268,0,0,1,1067.08,673.483Zm-35.487-33.449a3,3,0,0,0-2.992,2.993V668.22a3,3,0,0,0,2.992,2.993h35.487a3,3,0,0,0,2.993-2.993V643.027a3,3,0,0,0-2.993-2.993Z" transform="translate(0)" fill="#fff"/>
+      <g id="Grupo_54384" data-name="Grupo 54384" transform="translate(1027.84 645.429)">
+        <line id="Línea_162" data-name="Línea 162" x2="42.858" transform="translate(0 1.135)"/>
+        <rect id="Rectángulo_5217" data-name="Rectángulo 5217" width="42.857" height="2.269" transform="translate(0)" fill="#fff"/>
+      </g>
+      <g id="Grupo_54385" data-name="Grupo 54385" transform="translate(1036.676 649.289)">
+        <line id="Línea_163" data-name="Línea 163" x1="5.95" y2="14.393" transform="translate(1.136 1.135)"/>
+        <path id="Trazado_101990" data-name="Trazado 101990" d="M1036.583,664.584a1.136,1.136,0,0,1-1.048-1.568l5.951-14.393a1.134,1.134,0,1,1,2.1.866l-5.95,14.393A1.136,1.136,0,0,1,1036.583,664.584Z" transform="translate(-1035.448 -647.921)" fill="#fff"/>
+      </g>
+      <path id="Trazado_101991" data-name="Trazado 101991" d="M1043.753,660.71a1.135,1.135,0,0,1-.8-1.937l2.977-2.977-2.749-2.749a1.134,1.134,0,0,1,1.6-1.6l3.552,3.551a1.135,1.135,0,0,1,0,1.6l-3.78,3.779A1.131,1.131,0,0,1,1043.753,660.71Z" transform="translate(2.193 1.797)" fill="#fff"/>
+      <path id="Trazado_101992" data-name="Trazado 101992" d="M1035.106,660.71a1.135,1.135,0,0,1-.8-.332l-3.779-3.779a1.134,1.134,0,0,1,0-1.6l3.552-3.551a1.134,1.134,0,1,1,1.6,1.6l-2.749,2.749,2.976,2.977a1.135,1.135,0,0,1-.8,1.937Z" transform="translate(0.52 1.797)" fill="#fff"/>
+      <path id="Trazado_101993" data-name="Trazado 101993" d="M1062.963,658.021h-8.952a2.876,2.876,0,1,1,0-5.753h8.952a2.876,2.876,0,1,1,0,5.753Zm-8.952-3.483a.607.607,0,0,0,0,1.214h8.952a.607.607,0,1,0,0-1.214Z" transform="translate(3.34 1.953)" fill="#fff"/>
+      <path id="Trazado_101994" data-name="Trazado 101994" d="M1062.963,664.069h-8.952a2.877,2.877,0,0,1,0-5.754h8.952a2.877,2.877,0,1,1,0,5.754Zm-8.952-3.484a.608.608,0,0,0,0,1.215h8.952a.608.608,0,1,0,0-1.215Z" transform="translate(3.34 2.767)" fill="#fff"/>
+      <rect id="Rectángulo_5218" data-name="Rectángulo 5218" width="3.86" height="3.86" rx="1.701" transform="translate(1029.665 640.815)" fill="#fff"/>
+      <rect id="Rectángulo_5219" data-name="Rectángulo 5219" width="3.86" height="3.86" rx="1.701" transform="translate(1035.24 640.815)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

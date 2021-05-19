@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Política de Gobierno Digital',
     descripcionCurso:
-      'El gobierno ha avanzado a pasos agigantados en la tecnología, en la ciencia y muchas otras áreas del conocimiento. La Tecnología de la información y de la comunicación (TIC), está presente y es necesaria en todos los ámbitos de la vida diaria de un ciudadano; las Entidades públicas requieren funcionar como centros de solución para el ciudadano en el trabajo, la salud, en las relaciones sociales, en el ambiente organizacional, en los procesos educativos, en la búsqueda de la información, en la estructura de los conocimientos y en los intereses y motivaciones de las personas.',
+      'El gobierno ha avanzado a pasos agigantados en la tecnología, en la ciencia y muchas otras áreas del conocimiento. La tecnología de la información y de la comunicación (TIC), está presente y es necesaria en todos los ámbitos de la vida diaria de un ciudadano; las entidades públicas requieren funcionar como centros de solución para el ciudadano en el trabajo, la salud, en las relaciones sociales, en el ambiente organizacional, en los procesos educativos, en la búsqueda de la información, en la estructura de los conocimientos y en los intereses y motivaciones de las personas.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -248,7 +248,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Actividades Realizadas con DNP Kit de Planeación Territorial',
+        titulo: 'Actividades realizadas con DNP Kit de Planeación Territorial',
         desarrolloContenidos: true,
         subMenu: [
           {

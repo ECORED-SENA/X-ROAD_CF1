@@ -99,7 +99,7 @@
           p A través del tiempo ha tenido distintos desarrollos de tipo tecnológico y hoy hacen parte del día a día de las TIC en todo el planeta.       
 
           p.mt-3 #[b Comercio electrónico]
-          .p Ya transacciones electrónicas derivadas de comercio electrónico incluso de transacciones interbancarias, se venían realizando desde los 70s, por ejemplo Tarjetas débito/crédito usadas en puntos de pago y cajeros automáticos.
+          .p Ya transacciones electrónicas derivadas de comercio electrónico incluso de transacciones interbancarias, se venían realizando desde los 70s, por ejemplo tarjetas débito/crédito usadas en puntos de pago y cajeros automáticos.
           p Sin embargo fue hasta la llegada de las páginas web donde realmente el mundo entero logró vincularse a este sistema de pagos de manera amplia y fácil.
           p Y ya en la actualidad la computación móvil, dio el cierre perfecto a un modelo de pago que es usado ampliamente en el mundo. 
 
@@ -128,7 +128,7 @@
           p De esto deriva la aparición de los primeros sistemas de gestión y almacenamiento de información en 1992. Hoy en día permite que seamos capaces de procesar e interpretar el Big Data.
           p Desde 2009 a 2011 aparecen empresas como Cloudera y Hortonworks. En 2012 Barack Obama por primera vez emplea el Big Data con fines políticos en su campaña para conocer las opiniones de los votantes más indecisos y saber qué canales utilizaban.
           p En 2016 el Big Data alcanza un puesto importante en la sociedad. Se generaliza la contratación de expertos en Big Data, el Machine Learning llega a las fábricas y el Internet de las Cosas comienza a abarcar diferentes sectores.        
-          p #[b Decreto 1008 de 2018]
+          .p #[b Decreto 1008 de 2018]
           .p Nace la política de gobierno digital en Colombia "Por el cual se establecen los lineamientos generales de la política de Gobierno Digital y se subroga el capítulo 1 del título 9 de la parte 2 del libro 2 del Decreto 1078 de 2015, Decreto Único Reglamentario del sector de Tecnologías de la Información y las Comunicaciones". 
       .row.justify-content-center.align-items-center(titulo="2020")
         .col-md-3
@@ -170,7 +170,7 @@
           .list__txt            
             .h6 Impulso de la iniciativa privada: Neoliberalismo
             .p El neoliberalismo es la respuesta a la intervención estatal como garante de una mayor justicia social (es decir, del Estado benefactor).
-            p Su enfoque es claro en resultados: privatizaciones, Orientación a la economía de mercado, precios libres, menos subsidios estatales y libertad de mercados.
+            p Su enfoque es claro en resultados: privatizaciones, orientación a la economía de mercado, precios libres, menos subsidios estatales y libertad de mercados.
 
         .list
           .list__item
@@ -180,7 +180,7 @@
             .h6 Impulso amplio de las TICs
             .p La expansión de tecnologías ofimáticas (computadores, software, scanner, impresoras, etc.). Los administradores públicos son los primeros en recibir el impacto de las tecnologías dentro del Estado.
             p Diversos estudios demuestran que las administraciones públicas siempre fueron empujadas al uso de las tecnologías para mejorar o subir de estatus sus procesos internos.
-            p A la ofimática se le incorporó el arsenal de las telecomunicaciones del nuevo milenio: Móviles, fibra óptica, Wifi, servidores, etc.   
+            p A la ofimática se le incorporó el arsenal de las telecomunicaciones del nuevo milenio: móviles, fibra óptica, Wifi, servidores, etc.   
         
         .hr.mt-4
         .p-r.mt-3.text-center MENZEL D., (1998), “www.ethics.gov: Issues and Challenges Facing Public Managers”, en Public Administration Review, 58, 5, pp. 445-4 
@@ -212,7 +212,7 @@
             .h6 Gobierno electrónico
             .p Impulso de las TIC para efectos de atender las demandas de los ciudadanos.
             p El término e-Gobiemo se consolida a finales de los 90 aunque su origen se remonta a los principios de la historia de los ordenadores (Grönlund, 2005). Mientras que para algunos autores no es más que otra de las tecnologías de la información, refiriéndose a Internet, que se adopta para el uso del Gobierno (Bretschneíder, 2003), para otros es una auténtica revolución.
-            p Según El Gobierno Electrónico es entendido como una de las transformaciones de expresión de la sociedad de la información, así como un ámbito en el proceso de Modernización del Estado; el uso estratégico e intensivo de las tecnologías de la información y la comunicación (TIC), tanto en las relaciones del propio sector público entre sí, como en las relaciones de los órganos del Estado con los ciudadanos, usuarios y empresas del sector privado.
+            p Según el Gobierno Electrónico es entendido como una de las transformaciones de expresión de la sociedad de la información, así como un ámbito en el proceso de modernización del Estado; el uso estratégico e intensivo de las tecnologías de la información y la comunicación (TIC), tanto en las relaciones del propio sector público entre sí, como en las relaciones de los órganos del Estado con los ciudadanos, usuarios y empresas del sector privado.
 
 
         .list
