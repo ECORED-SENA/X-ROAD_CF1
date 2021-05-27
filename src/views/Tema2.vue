@@ -45,9 +45,9 @@
     .titulo-segundo#t_2_2.mt-5
       .h4 2.2 Breve reseña del Modelo Integrado de Planeación y Gestión MIPG
     p 
-      a(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=62866" target="_blank").link-color El Decreto 1083 de 2015
+      a(:href="obtenerLink('/downloads/DECRETO_1083_DE_2015_COMPLETO_UNICO_REGLAMENTARIO_DE FUNCION_PUBLICA.pdf')" target="_blank").link-color El Decreto 1083 de 2015
       |, Decreto único del Sector Función Pública, modificado por el 
-      a(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=83433" target="_blank").link-color  Decreto 1499 de 2017
+      a(:href="obtenerLink('/downloads/Decreto_1499_de_2017.pdf')" target="_blank").link-color  Decreto 1499 de 2017
       |, establece el Modelo Integrado de Planeación y Gestión - MIPG, el cual surge de la integración de los Sistemas de Desarrollo Administrativo y de Gestión de la Calidad en un solo Sistema de Gestión, y de la articulación de este con el Sistema de Control Interno.
 
     .p El MIPG opera a través de un conjunto de 7 dimensiones que agrupan las políticas de gestión y desempeño institucional, implementadas de manera articulada e intercomunicada, permitirán que el MIPG funcione:
